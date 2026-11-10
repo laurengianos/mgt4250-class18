@@ -3,4 +3,4 @@ openpxyl
 xlrd
 streamlit
 matplotblib
-poorly
+plotly
