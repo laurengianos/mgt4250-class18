@@ -1,0 +1,6 @@
+pandas
+openpxyl
+xlrd
+streamlit
+matplotblib
+poorly
